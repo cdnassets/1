@@ -1,4 +1,4 @@
-<?php /* WARNING: Don't edit/delete these settings and this message! it will self destruct. The developer shall not held responsible for any illegal use of this software. For educational purposes only! ~Kakashi Hatake (ANBU ROOT)*///This software is protected by xDebugger for PHP. Copyright (c) Anbu Root
+/* WARNING: Don't edit/delete these settings and this message! it will self destruct. The developer shall not held responsible for any illegal use of this software. For educational purposes only! ~Kakashi Hatake (ANBU ROOT)*///This software is protected by xDebugger for PHP. Copyright (c) Anbu Root
 
 
 
